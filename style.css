@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     height: 100vh;
-    background: linear-gradient(to right blue purple);
+    background: linear-gradient(to right, blue, purple);
     display: flex;
     flex-direction: column;
     align-items: center;
